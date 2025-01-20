@@ -1,4 +1,4 @@
-1 Ivadas: Agile
+1 Ivadas: Agile \n
 44 Vizija: rich pic
 63 Technologiju analize
 71 Modeliais pagristas kurimas: CIM PIM PSM PSI
